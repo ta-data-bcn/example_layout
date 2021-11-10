@@ -1,8 +1,12 @@
 # Ironhack Project - Bank Case Study
 
 ## Table of Contents
-- [Project Overview](#Project-Overview)
 - [Project Brief](#Project-Brief)
+- [Defining the problem](#Defining-the-problem)
+- [Process & Tools](#Process-&-Tools)
+- [Visualizations](#Visualizations)
+- [Key Take Aways](#Key-Take-Aways)
+- [Next Steps](#Next-Steps)
 
 
 ## Project Brief
@@ -59,7 +63,10 @@ The final stage was to model the data using logistic regression. I then evaluate
 ## Visualizations
 
 <img width="400" alt="Screenshot 2021-11-10 at 16 53 53" src="https://user-images.githubusercontent.com/89530964/141146633-465d0271-c077-499d-8c11-b615ff54caa3.png">
+
 <img width="400" alt="Screenshot 2021-11-10 at 16 56 24" src="https://user-images.githubusercontent.com/89530964/141147130-c7c000aa-6ff5-4f1f-8d33-9168ab6fa02e.png">
+
+The above images show a confusion matrix and AUC plot for the regression model we performed on the data. We discuss their implications below.
 
 
 ## Key Take Aways
@@ -76,8 +83,3 @@ The issue here appears to be that since there are many more 'good' customers at 
 ## Next Steps
 
 The obvious next step would be to rerun the model having done some sampling techniques. If we were to over or under sample from the original data, to even out the number of 'good' and 'bad' customers that the model recieves, we may be able to get fewer false negatives.
-
-
-
-
-
