@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Brief](#Project-Brief)
-- [Defining the problem](#Defining-the-problem)
+- [Defining the problem](#Defining-the-Problem)
 - [Process & Tools](#Process-&-Tools)
 - [Visualizations](#Visualizations)
 - [Key Take Aways](#Key-Take-Aways)
