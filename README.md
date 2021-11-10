@@ -30,13 +30,13 @@ The project was stored and updated via github.
 
 ### SQL
 
-We started by accessing the bank data in SQL by running a [script](https://github.com/zachighton/example_layout/blob/main/bank_sql_dump_script.sql). Then wrote a [query](https://github.com/zachighton/example_layout/blob/main/bank_sql_query.sql) to access the relevant features which we would then use for the analysis.
+We started by accessing the bank data in SQL by running a [script](https://github.com/zachighton/example_layout/blob/main/SQL%20Files/bank_sql_dump_script.sql). Then wrote a [query](https://github.com/zachighton/example_layout/blob/main/SQL%20Files/bank_sql_query.sql) to access the relevant features which we would then use for the analysis.
 
 ### Python
 
 **Import:**
 
-We then imported the data into python to begin exploratory analysis. The link to the jupyter notebook can be found [here](https://github.com/zachighton/example_layout/blob/main/log_regression_bank.ipynb).
+We then imported the data into python to begin exploratory analysis. The link to the jupyter notebook can be found [here](https://github.com/zachighton/example_layout/blob/main/Juptyer%20Files/log_regression_bank.ipynb).
 
 **Cleaning:**
 
