@@ -58,7 +58,7 @@ The final stage was to model the data using logistic regression. I then evaluate
 
 ## Visualizations
 
-<img width="788" alt="Screenshot 2021-11-10 at 16 53 53" src="https://user-images.githubusercontent.com/89530964/141146633-465d0271-c077-499d-8c11-b615ff54caa3.png">
+<img width="400" alt="Screenshot 2021-11-10 at 16 53 53" src="https://user-images.githubusercontent.com/89530964/141146633-465d0271-c077-499d-8c11-b615ff54caa3.png">
 
 
 ## Key Take Aways
