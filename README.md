@@ -62,9 +62,11 @@ The final stage was to model the data using logistic regression. I then evaluate
 
 ## Visualizations
 
-<img width="400" alt="Screenshot 2021-11-10 at 16 53 53" src="https://user-images.githubusercontent.com/89530964/141146633-465d0271-c077-499d-8c11-b615ff54caa3.png">
+<img width="400" alt="Screenshot 2021-11-10 at 17 07 19" src="https://user-images.githubusercontent.com/89530964/141149155-d1e85682-f494-4696-aa82-d7e9dd15cd95.png">
 
-<img width="400" alt="Screenshot 2021-11-10 at 16 56 24" src="https://user-images.githubusercontent.com/89530964/141147130-c7c000aa-6ff5-4f1f-8d33-9168ab6fa02e.png">
+
+<img width="400" alt="Screenshot 2021-11-10 at 17 06 34" src="https://user-images.githubusercontent.com/89530964/141149037-2a2d5e27-bcd7-4e48-8f4b-750ebdbf0d50.png">
+
 
 The above images show a confusion matrix and AUC plot for the regression model we performed on the data. We discuss their implications below.
 
