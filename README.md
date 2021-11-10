@@ -13,7 +13,7 @@
 
 We are risk analysts employed at a bank. The bank is interested in finding 'good' and 'bad' customers. We are tasked with using the data currently available at the bank to identify these groups. We must create a machine learning model which can effectively identify 'good' and 'bad' customers based on the other data available on them.
 
-## Defining the problem
+## Defining the Problem
 
 In order to tackle this issue, we had come up with a way of defining 'good' and 'bad' customers. We decided to define this using the 'Status' column within the data.
 
