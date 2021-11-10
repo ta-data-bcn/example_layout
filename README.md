@@ -18,7 +18,7 @@
 
 ## Process & Tools
 
-I started by running accessing the data in SQL by running a [script](#https://github.com/zachighton/example_layout/blob/main/bank_sql_dump_script.sql).
+I started by running accessing the data in SQL by running a [script](https://github.com/zachighton/example_layout/blob/main/bank_sql_dump_script.sql).
 
 ## Visualizations
 
