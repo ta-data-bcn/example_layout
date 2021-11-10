@@ -15,7 +15,10 @@
 
 ## Data
 
+
 ## Process & Tools
+
+I started by running accessing the data in SQL by running a script
 
 ## Visualizations
 
